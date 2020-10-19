@@ -2,7 +2,8 @@
 ### Lista de questôes:
 
  
-1: Joana gosta de brincar de fingir ser uma agente secreta com suas amigas Bruna, Jaqueline e Laura. Joana e Bruna criaram um código secreto para se comunicar sem que suas inimigas descubram seus planos.
+1:
+Joana gosta de brincar de fingir ser uma agente secreta com suas amigas Bruna, Jaqueline e Laura. Joana e Bruna criaram um código secreto para se comunicar sem que suas inimigas descubram seus planos.
 O código secreto funciona da seguinte forma:
 
 A letra 'a' é representada por um único ponto '.'
@@ -30,3 +31,5 @@ A entrada contém vários casos de teste. A primeira linha de cada teste deverá
 
 Saída
 Uma string representado a letra do alfabeto correspondente ao código de entrada. Cada string deve estar seperada da outra por uma nova linha.
+
+2:
